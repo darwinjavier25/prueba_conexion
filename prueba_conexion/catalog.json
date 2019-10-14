@@ -1,0 +1,28 @@
+{
+  "type": [
+    "null", 
+    "object"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "usuario": {
+      "type": [
+        "null",
+        "string"
+      ],
+    },
+    "tabla": {
+      "type": [
+        "null",
+        "string"
+      ],
+    },
+    "ultima_conexion": {
+      "type": [
+        "null",
+        "string"
+      ],
+      "format": "date-time",
+    }
+  }
+}

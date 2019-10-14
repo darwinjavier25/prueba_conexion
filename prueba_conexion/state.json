@@ -1,0 +1,10 @@
+{
+  "usuario": {
+    "tabla": {
+      "utltima_conexion": "2019-09-01T10:00:000Z"
+    },
+    "cliente": {
+      "utltima_conexion": 123
+    }
+  }
+}
