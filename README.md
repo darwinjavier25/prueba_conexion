@@ -1,6 +1,6 @@
 # prueba_conexion
 
-# El .py se encuentra dentro del directorio prueba_conexion
+# El .py se encuentra dentro del directorio prueba_conexion => "setup2.py"
 
 # PROCESO:
 
