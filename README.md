@@ -1,8 +1,11 @@
 # prueba_conexion
 
-# Instalo singer y lo configuro tap para que lea un json 
+# Instalo singer 
 
 pip install tap-github
+
+# Configuro el tap con json
+
 tap --config config.json --state state.json --catalog catalog.json
 
 
