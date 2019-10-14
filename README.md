@@ -1,5 +1,9 @@
 # prueba_conexion
 
+# El .py se encuentra dentro del directorio prueba_conexion
+
+# PROCESO:
+
 # Instalo singer 
 
 pip install tap-github
